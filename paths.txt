@@ -1,0 +1,4 @@
+C:\inetpub\logs\LogFiles
+C:\Program Files\Microsoft\Exchange Server\V14\
+C:\Program Files\Microsoft\Exchange Server\V15\
+C:\Program Files\Microsoft\Exchange Server\V16\
